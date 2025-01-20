@@ -1,0 +1,1 @@
+This repository contains a Dockerfile with a common error and its solution. The error is related to a missing requirements.txt file. The solution demonstrates how to properly handle the requirements file in a Dockerfile.
